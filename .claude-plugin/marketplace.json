@@ -1,0 +1,15 @@
+{
+  "name": "cepo-plugins",
+  "owner": {
+    "name": "Cepo AI"
+  },
+  "metadata": {
+    "description": "Cepo AI plugins for Claude Code, with skills also installable through npx skills."
+  },
+  "plugins": [
+    {
+      "name": "codebase-health",
+      "source": "./plugins/codebase-health"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "codebase-health",
+  "description": "Interactive quizzes that help developers stay familiar with their codebase.",
+  "version": "0.2.1",
+  "author": {
+    "name": "cepo.ai"
+  }
+}
